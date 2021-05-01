@@ -31,3 +31,10 @@ Além disso, o projeto precisa utlizar o DB_HOST como mysql, que é o nome do co
 ```
     DB_HOST=mysql
 ```
+
+# Acessando a aplicação
+A aplicação pode ser acessada na porta 8088, como configurado no docker-compose.yml
+
+```
+    localhost:8088
+```
